@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dataCloud</string>
+    <array name="gen">
+
+        <item>rock</item>
+        <item>scifi</item>
+        <item>hip-pop</item>
+        <item>classic</item>
+        <item>metal</item>
+
+
+    </array>
+</resources>

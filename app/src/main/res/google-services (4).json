@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "31719624189",
+    "firebase_url": "https://datacloud-1c132.firebaseio.com",
+    "project_id": "datacloud-1c132",
+    "storage_bucket": "datacloud-1c132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31719624189:android:1889835a2ecdd5c3",
+        "android_client_info": {
+          "package_name": "com.example.rohan.datacloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31719624189-5o85t5si43igfoa9bo3bamjociibviev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohan.datacloud",
+            "certificate_hash": "5e2c2bea3bb6c4600baa8aa746feccd4539f388d"
+          }
+        },
+        {
+          "client_id": "31719624189-2r4btncr23vu8stb6qolq0i92ht6f1sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAv46_1kHPmjVOMVi1mtxWNeX_c4OhrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31719624189-2r4btncr23vu8stb6qolq0i92ht6f1sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectArea"
+    android:orientation="vertical">
+
+    <TextView
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+android:gravity="center"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:paddingTop="20dp"
+        android:text="dhfh"
+        android:textSize="30dp"
+        android:textColor="#A8A8A8"
+        android:id="@+id/textve"
+        tools:ignore="MissingConstraints" />
+
+
+ <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycle_area"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
